@@ -1,2 +1,13 @@
-# EVM_2sem
-Labs EVM 2sem IS
+## EVM_2sem IS
+- [HW1](https://github.com/necha143/EVM_2sem/blob/main/pdfs/Нечаев%20Александр_M3111_ДЗ1.pdf) </br>
+- [HW2](https://github.com/necha143/EVM_2sem/blob/main/pdfs/Нечаев%20Александр_M3111_ДЗ2.pdf) </br>
+- [LB1](https://github.com/necha143/EVM_2sem/blob/main/pdfs/Нечаев%20Александр_M3111_ЛР1.pdf) </br>
+- [LB2](https://github.com/necha143/EVM_2sem/blob/main/pdfs/Нечаев%20Александр_M3111_ЛР2.pdf) </br>
+- [LB3](https://github.com/necha143/EVM_2sem/blob/main/pdfs/Нечаев%20Александр_M3111_ЛР3.pdf) </br>
+- [LB4](https://github.com/necha143/EVM_2sem/blob/main/pdfs/Нечаев%20Александр_M3111_ЛР4.pdf) </br>
+- [HW3](https://github.com/necha143/EVM_2sem/blob/main/pdfs/Нечаев%20Александр_M3111_ДЗ3.pdf) </br>
+- [LB5](https://github.com/necha143/EVM_2sem/blob/main/pdfs/Нечаев%20Александр_M3111_ЛР5.pdf) </br>
+- [LB6](https://github.com/necha143/EVM_2sem/blob/main/pdfs/Нечаев%20Александр_M3111_ЛР6.pdf) </br>
+- [HW4](https://github.com/necha143/EVM_2sem/blob/main/pdfs/Нечаев%20Александр_M3111_ДЗ4.pdf) </br>
+- [LB7](https://github.com/necha143/EVM_2sem/blob/main/pdfs/Нечаев%20Александр_M3111_ЛР7.pdf) </br>
+- [LB8](https://github.com/necha143/EVM_2sem/blob/main/pdfs/Нечаев%20Александр_M3111_ЛР8.pdf) </br>
